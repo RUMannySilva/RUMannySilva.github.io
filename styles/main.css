@@ -1,0 +1,12 @@
+
+ section.about,section.contact,section.jumbotron {
+    min-height:100vh;
+}
+
+section.jumbotron{
+  margin-bottom: 0;
+}
+
+.about, .contact {
+    background-color: #000;
+}
