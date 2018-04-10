@@ -1,6 +1,7 @@
 
  section.about,section.contact,section.jumbotron {
     min-height:100vh;
+    min-width:100vw;
 }
 
 section.jumbotron{
